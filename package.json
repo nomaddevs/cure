@@ -105,7 +105,7 @@
     "@types/electron": "^1.6.10",
     "ajv": "^6.10.2",
     "cap": "^0.2.1",
-    "d3": "^5.15.0",
+    "d3": "^7.6.1",
     "electron-edge-js": "^12.8.1",
     "electron-log": "^3.0.9",
     "electron-packager": "^14.1.1",
